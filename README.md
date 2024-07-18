@@ -5,14 +5,9 @@ This project aims to classify videos based on their content using machine learni
 ## Table of Contents
 * Technologies
 * Techniques
-* Installation
-* Usage
-* Project Structure
 * Dataset
 * Model Training
 * Evaluation
-* Contributing
-* License
 
 ## Technologies
 * Programming Languages: Python
