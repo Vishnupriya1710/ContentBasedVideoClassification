@@ -44,3 +44,12 @@ This project aims to classify videos based on their content using machine learni
 │   └── ...
 └── ...
 ```
+## Model Training
+The model training process involves:
+* Preprocessing videos to extract frames.
+* Extracting features from frames using OpenCV.
+* Training a machine learning model using the extracted features.
+* Evaluating the model on a validation set.
+
+## Evaluation
+Model evaluation is performed using standard metrics such as accuracy, precision, recall, and F1-score. 
