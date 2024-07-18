@@ -32,6 +32,7 @@ This project aims to classify videos based on their content using machine learni
 
 ## Dataset
 * The dataset used for this project consists of videos labeled with their respective classes. Ensure your dataset is structured as follows:
+```
   data/
 ├── class_1/
 │   ├── video1.mp4
@@ -42,3 +43,4 @@ This project aims to classify videos based on their content using machine learni
 │   ├── video2.mp4
 │   └── ...
 └── ...
+```
